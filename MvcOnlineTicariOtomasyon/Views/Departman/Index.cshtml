@@ -1,0 +1,68 @@
+﻿@using MvcOnlineTicariOtomasyon.Models.Siniflar
+@model List<Departman>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Departman Listeleme Sayfası</h2>
+
+
+
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th> ID</th>
+        <th> Departman Adı</th>
+        <th> Sil</th>
+        <th> Güncelle</th>
+        <th>  Detaylar</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td> @item.DepartmanId</td>
+            <td> @item.DepartmanAd</td>
+            <td>
+                <a href="/Departman/DepartmanSil/@item.DepartmanId" class="btn btn-outline-success" style="overflow: hidden; position: relative;">
+                    <i class="fas fa-arrow-right" style="position: absolute; left: 100%; transition: left 0.3s;"></i>
+
+
+                    <style>
+                        .btn-outline-success:hover i {
+                            left: 10px;
+                        }
+                    </style> Sil
+                </a>
+            </td>
+
+
+
+
+            <td>
+                <a href="/Departman/DepartmanGuncelle/@item.DepartmanId" class="btn btn-info" style="transition: box-shadow 0.3s ease;">
+                    <style>
+                        .btn-info:hover {
+                            box-shadow: 0px 10px 20px rgba(0, 123, 255, 0.5);
+                        }
+                    </style> Güncelle
+                </a>
+            </td>
+
+            <td>
+                <a href="/Departman/DepartmanDetay/@item.DepartmanId" class="btn" style="background-color: black; color: cyan; border: 2px solid cyan; box-shadow: 0 0 8px ;">
+                     Detaylar
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>
+<a href="/Departman/DepartmanEkle/" class="btn" style="background: linear-gradient(to right, #ff416c, #ff4b2b); color: white; transition: background-position 0.4s ease; background-size: 200% 100%;"
+   onmouseover="this.style.backgroundPosition='right center'"
+   onmouseout="this.style.backgroundPosition='left center'">
+    Departman Ekle
+</a>
+

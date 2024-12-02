@@ -1,0 +1,19 @@
+﻿@model MvcOnlineTicariOtomasyon.Models.Siniflar.Kategori
+@{
+    ViewBag.Title = "KategoriGuncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h2>Kategori Guncelleme Sayfası</h2>
+<br />
+@using (Html.BeginForm("KategoriGuncelle", "Kategori", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.HiddenFor(x=>x.KategoriId)
+
+        @Html.LabelFor(x=>x.KategoriAdı)
+        @Html.TextBoxFor(x => x.KategoriAdı, new {@class="form-control"})
+    </div>
+    <button class="btn btn-warning">Kategoriyi Güncelle</button>
+}
+

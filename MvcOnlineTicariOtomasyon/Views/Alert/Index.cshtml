@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script>
+    $('#btn5').click(function () {
+        swal("Burası Başlık", "Burası Metin");
+    });
+</script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script> @*bunu siteden aldık sweetalert*@
+<script src="~/Scripts/jquery-3.4.1.js"></script> @*bunu da scrip dosyasından sürükledik*@
+<br />
+<button class="btn btn-success" id="btn1" style="background-color:gold"> Buton1</button>
+<button class="btn btn-success" id="btn2" style="background-color:chocolate"> Buton2</button>
+<button class="btn btn-success" id="btn3" style="background-color:darksalmon"> Buton3</button>
+<button class="btn btn-dark" id="btn4" style="background-color:mediumblue"> Buton4</button>
+<button class="btn btn-success" id="btn5" style="background-color:chocolate"> Buton5</button>
+
+<script>
+    $('#btn1').click(function () {
+        swal("Merhaba");
+    });
+
+    $('#btn2').click(function () {
+        swal("Başlık", "Mesaj", "success");
+    });
+
+    $('#btn3').click(function () {
+        swal("Burası Başlık", "Burası mesaj kısmı");
+    });
+    $('#btn4').click(function () {
+        swal({
+            title: "Good job!",
+            text: "You clicked the button!",
+            icon: "success",
+            button: "Evet",
+        });
+    });
+    $('#btn5').click(function () {
+        swal({
+            title: "Are you sure?",
+            text: "Once deleted, you will not be able to recover this imaginary file!",
+            icon: "warning",
+            buttons: true,
+            dangerMode: true,
+        })
+            .then((willDelete) => {
+                if (willDelete) {
+                    swal("Poof! Your imaginary file has been deleted!", {
+                        icon: "success",
+                    });
+                } else {
+                    swal("Your imaginary file is safe!");
+                }
+            });
+    });
+
+</script>
