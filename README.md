@@ -171,7 +171,6 @@ Projemizdekiaki Bazı İstatistikler
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_26_45](https://github.com/user-attachments/assets/9a8f92f5-71d6-473e-bfeb-a71632c1a345)
 
 ### Admin Giriş Rapor&Faturalar Galeri 
-</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_28_03](https://github.com/user-attachments/assets/9e192b94-5a9b-4550-ae69-e2782b9b032f)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_28_08](https://github.com/user-attachments/assets/aa613f43-9130-4fdd-8f2f-648a5c67f501)
 
