@@ -2,6 +2,7 @@
 ## Proje Amacı: 
 
 -MVC 5 (.NET Çerçevesi)
+</br>
 -MSSQL Server
 -Orm aracı olarak Entity Framework
 -Code First yaklaşımı ile geliştirilmiştir.
