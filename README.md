@@ -51,7 +51,6 @@ Müşterinin satın aldığı ürün ile ilgili işlemlerin bulunduğu alan , si
 ![Mvc5 ile Ticari Otomasyon ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 3 12 2024 20_23_45](https://github.com/user-attachments/assets/ae4e1c15-671b-4ed9-b21d-4effd5166435)
 
 ### Cari Giriş Mesajlar Kısımı
-
 Sisteme giriş yapan müşterinin mesajlaşma paneli üzerinde admine mesaj atabilmektedir. Aynı zamanda diğer kullanıcılarla mesajlaşabildiği mesajlar bölümü. Mesajların detaylarını da görebilmekteyiz. Sisteme Giriş yapan müşteri çıkış yap bölümünden çıkış yapabilmektedir
 </br>
 ![Mvc5 ile Ticari Otomasyon ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 3 12 2024 20_27_44](https://github.com/user-attachments/assets/42a6abc5-c8ad-49c7-bdd1-68bf38092b51)
@@ -61,24 +60,25 @@ Sisteme giriş yapan müşterinin mesajlaşma paneli üzerinde admine mesaj atab
 
 
 ### Admin Giriş Kategoriler
-</br>
 Kategori işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kısım  ek olarak sayfalama kullanılmıştır.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_26_50](https://github.com/user-attachments/assets/60ce3b62-e145-4062-8524-6c19a5dcab97)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_26_57](https://github.com/user-attachments/assets/8bfefe3b-9d66-4737-b3f9-71349c9b93a5)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_27_02](https://github.com/user-attachments/assets/6796a614-d774-4212-b117-25f405666cdb)
 
 
 ### Admin Giriş Ürünler
-</br>
 Ürünler işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kısım  arama paneli kullanılmıştır. Bu sayede daha kolay ürün bulma işlemi gerçekleşmektedir. Satış yapma işlemi de yapılmaktadır. İstediğimiz personele seçtiğimiz ürünün satışını yapabilmekteyiz.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_30_16](https://github.com/user-attachments/assets/93e11949-298e-41cb-92ac-d2d15dfa8855)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_30_39](https://github.com/user-attachments/assets/9776e6ce-92e2-4b8c-9f75-24d1aee70321)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_31_05](https://github.com/user-attachments/assets/677da57b-b11e-4ce0-a3e2-7db14a28d71a)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_30_51](https://github.com/user-attachments/assets/706d2ce0-72aa-45ab-8c75-1f6051aab9d0)
 
+
 ### Admin Giriş Departmanlar
-</br>
 Departman işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kısım. Detay kısımında o departmanda çalışan personeli görüntüleyebiliyoruz. Çalışan personellerin bulunduğu panelden de Satış bölümünde , personelin yaptığı satışları görebiliyoruz.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_35_00](https://github.com/user-attachments/assets/c79c1b43-3f84-4392-9e49-88d70839b4b8)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_35_06](https://github.com/user-attachments/assets/6c2d6da2-188d-403f-a979-b18499b9844f)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_35_11](https://github.com/user-attachments/assets/68525d73-9446-40fc-8a09-11b4110e72af)
@@ -87,44 +87,49 @@ Departman işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kıs�
 
 
 ### Admin Giriş Cariler
-</br>
 Cariler işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kısım. Bu kısımda da personelin yaptığı satışları görmekteyiz.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_36_40](https://github.com/user-attachments/assets/76a7d484-504e-4679-86ce-e673e3c49dca)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_36_51](https://github.com/user-attachments/assets/dda04c6b-e60d-4ebe-b864-b5618f3c7667)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_36_57](https://github.com/user-attachments/assets/821343c8-a838-46e1-a027-bdfda34d02e6)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_37_14](https://github.com/user-attachments/assets/9c532c18-a956-4011-8cbb-6a88501838ba)
 
 ### Admin Giriş Tablolar
-</br>
 Tablolar Kısmında kullandığıız bilgilerin farklı formatlarda tablolanması işlemi yapılmıştır
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_40_37](https://github.com/user-attachments/assets/37748296-d1e8-4e6e-88ef-b0cb67190b80)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_40_51](https://github.com/user-attachments/assets/6968130d-8502-4647-bb77-fc35a49e832e)
 
+
+
 ### Admin Giriş Personel
-</br>
 Bu kısımda Personellerimiz bilgileri bulunmakta satış geçmişini görüntülemekteyiz. Personelin bilgilerini güncelleyebiliyoruz.
+</br>
 ![Mvc5 ile Ticari Otomasyon ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 4 12 2024 00_42_28](https://github.com/user-attachments/assets/a08dcec4-b8a3-4512-bd53-ea28ab3204f6)
 ![Mvc5 ile Ticari Otomasyon ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 4 12 2024 00_42_53](https://github.com/user-attachments/assets/d2453531-bca6-4a9a-a4c6-d50c310253e3)
 ![Mvc5 ile Ticari Otomasyon ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 4 12 2024 00_43_01](https://github.com/user-attachments/assets/ea1ce1cb-dd5a-45ca-8cd5-ef273960d65c)
 
+
+
 ### Admin Giriş Grafikler
-</br>
 3 aynı bilginin  farklı grafiklerde gösterilmesi işlemi 
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_44_53](https://github.com/user-attachments/assets/44e16baf-4194-4497-b31f-ec60e85682c8)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_45_02](https://github.com/user-attachments/assets/e75d9bcf-c2b6-4727-97b2-8851ec6d1e36)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_45_13](https://github.com/user-attachments/assets/63790a76-ac27-4dcb-be94-8aee40e28b8f)
 
 ### Admin Giriş Rapor&Faturalar Satış Hareket
-</br>
 Satış Hareket işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kısım. Hazır bir sayfalama işlemi kullandık. Satış geçmişini görüntüleyebiliyoruz.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_47_46](https://github.com/user-attachments/assets/45a6a3e8-567d-4179-80ef-cfae2d329150)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_47_57](https://github.com/user-attachments/assets/1ce44d37-2dcc-4ac8-92ef-23b84910e274)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_48_10](https://github.com/user-attachments/assets/5483b0ea-1984-4f0d-b6f0-bd0c7a68bc48)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_48_21](https://github.com/user-attachments/assets/467d0ae5-7744-4f98-8f47-fe9474c7d73d)
 
 ### Admin Giriş Rapor&Faturalar Faturalar
-</br>
+
 Faturalar işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kısım. Detaylar kısmında o faturaya ait kalemleri görebiliyoruz aynı şekilde fatura kalemlerini de güncelleyebiliyoruz. Yeni kalem girişi yapabiliyoruz. Popup penceresinde de Faturaları görmekteyiz.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_53_39](https://github.com/user-attachments/assets/8a1d5e8f-d170-45de-82bc-76395ba125b7)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_53_45](https://github.com/user-attachments/assets/a830ac98-e37d-4c46-a3e9-13905e3b62bd)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_53_59](https://github.com/user-attachments/assets/28893d5d-14db-48f7-8b97-7e9b5a54aac8)
@@ -134,23 +139,23 @@ Faturalar işlemlerinin eklemesi, silmesi, güncellemesinin  yapıldığı kıs�
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 00_54_25](https://github.com/user-attachments/assets/d6d9059d-c87e-4874-8aa4-10f1064044fc)
 
 ### Admin Giriş Rapor&Faturalar Yeni Fatura Kalem
-</br>
-Fatura Kalem bilgileri , yeni fatura kalem girişi yapılmaktadır.
 
+Fatura Kalem bilgileri , yeni fatura kalem girişi yapılmaktadır.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_03_42](https://github.com/user-attachments/assets/efac1cbd-23d5-4d84-90eb-84993846914c)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_03_48](https://github.com/user-attachments/assets/a603b78e-7cd8-4fb7-bdd9-f8bc46346df0)
 
 ### Admin Giriş Rapor&Faturalar Kargo
-</br>
 Kargo , yeni fatura kargo girişi yapılmaktadır. Yeni kargo eklerken kargo takip kodu sistem tarafından rastgele harf ve rakamlardan oluşmaktadır. Detyalar kısmında da kargonun durumunu görmekteyiz.
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_18_53](https://github.com/user-attachments/assets/22ae5c8a-deb2-47e2-a2f0-a29186ce57a7)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_19_02](https://github.com/user-attachments/assets/1b937397-e291-4440-962f-7158d71fe327)
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_19_12](https://github.com/user-attachments/assets/b7272740-f9b8-40db-9d70-89425aa57560)
 
 
 ### Admin Giriş Rapor&Faturalar Pdf&Exel
-</br>
 Seçtiğimiz tabloyu pdf veya exel gibi uygulamara taşıyabiliyoruz.
+</br>
 ![Bootstrap 4 Responsive Datatable and Export to PDF, CSV - Profil 1 - Microsoft​ Edge 4 12 2024 01_24_29](https://github.com/user-attachments/assets/f5be7a12-95cd-457b-98a3-6da8ecc7c9b0)
 
 
@@ -161,8 +166,8 @@ Seçtiğimiz tabloyu pdf veya exel gibi uygulamara taşıyabiliyoruz.
 
 
 ### Admin Giriş Rapor&Faturalar İstatistikler
-</br>
 Projemizdekiaki Bazı İstatistikler
+</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_26_45](https://github.com/user-attachments/assets/9a8f92f5-71d6-473e-bfeb-a71632c1a345)
 
 ### Admin Giriş Rapor&Faturalar Galeri 
