@@ -177,7 +177,6 @@ Projemizdekiaki Bazı İstatistikler
 
 
 ### Hata Sayfası
-</br>
 ![Mvc5 ile Ticari Otomasyon - Profil 1 - Microsoft​ Edge 4 12 2024 01_29_36](https://github.com/user-attachments/assets/cede498c-30a4-4e5d-9a6d-a34c0bcc7201)
 
 
