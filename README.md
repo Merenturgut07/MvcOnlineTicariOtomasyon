@@ -181,7 +181,7 @@ Projemizdekiaki Bazı İstatistikler
 
 
 ### Projede Kullanılan Tablolar
-</br>
+![DESKTOP-FCK5R8M_SQLEXPRESS DataProje - Diagram_2_ - Microsoft SQL Server Management Studio 4 12 2024 01_43_56](https://github.com/user-attachments/assets/9fd57963-93c8-4e7d-bcd2-d0b4f171d2af)
 
 
 
