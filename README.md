@@ -3,30 +3,29 @@
 
 Udemy’de Murat Yücedağ hocamın eğitmenliğinde sunulan "ASP.NET MVC5 ile Online Ticari Otomasyon" eğitimini başarıyla tamamladım. Bu eğitimde, işletmelerin günlük iş süreçlerini kolaylaştırmak için geliştirilmiş kapsamlı bir Ticari Otomasyon projesi hayata geçirildi.</br>
 
-🚀 Projede Kullanılan Teknolojiler ve Yaklaşımlar
-💻 ASP.NET MVC5 
-🗄️ MSSQL Server ve Entity Framework (Code First) ile veritabanı yönetimi.
-🎡 Trigger ve Prosedür yazımı ile dinamik veritabanı işlemleri.
-🔍 İlişkisel Tablolar ve LINQ sorguları ile verimli veri analizi.
-🔑 Yetki bazlı giriş ve yönetim sistemi (Authentication / Authorization / Validation).
-⚙️ Kullanıcı deneyimini artıran Partial Views, Modal Popups ve Sweet Alerts.
-🎑 Görselleştirme için Google Charts ve raporlama araçları.
-🔋 DataTable ile arama ve sayfalama işlemleri, QR kod oluşturma 
+🚀 Projede Kullanılan Teknolojiler ve Yaklaşımlar</br>
+💻 ASP.NET MVC5 </br>
+🗄️ MSSQL Server ve Entity Framework (Code First) ile veritabanı yönetimi.</br>
+🎡 Trigger ve Prosedür yazımı ile dinamik veritabanı işlemleri.</br>
+🔍 İlişkisel Tablolar ve LINQ sorguları ile verimli veri analizi.</br>
+🔑 Yetki bazlı giriş ve yönetim sistemi (Authentication / Authorization / Validation).</br>
+⚙️ Kullanıcı deneyimini artıran Partial Views, Modal Popups ve Sweet Alerts.</br>
+🎑 Görselleştirme için Google Charts ve raporlama araçları.</br>
+🔋 DataTable ile arama ve sayfalama işlemleri, QR kod oluşturma </br>
 
-🗝️ Admin Paneli Özellikleri
-Admin paneli, kapsamlı bir yönetim aracı sunuyor:
+🗝️ Admin Paneli Özellikleri</br>
+Admin paneli, kapsamlı bir yönetim aracı sunuyor:</br>
+CRUD işlemleri: Kategoriler, ürünler, personeller gibi öğeleri dinamik olarak ekleme, düzenleme, silme.</br>
+Satış ve müşteri takibi: Personel satışları ve cari geçmişleri görüntülenebilir.</br>
+Fatura oluşturma: Dinamik sistemle satış faturaları hazırlama.</br>
+İstatistik ve grafikler: İş süreçlerini analiz etmek için güçlü görsel araçlar.</br>
+Kargo takibi: QR kodlar üzerinden kargo durumlarını kontrol etme.</br>
 
-CRUD işlemleri: Kategoriler, ürünler, personeller gibi öğeleri dinamik olarak ekleme, düzenleme, silme.
-Satış ve müşteri takibi: Personel satışları ve cari geçmişleri görüntülenebilir.
-Fatura oluşturma: Dinamik sistemle satış faturaları hazırlama.
-İstatistik ve grafikler: İş süreçlerini analiz etmek için güçlü görsel araçlar.
-Kargo takibi: QR kodlar üzerinden kargo durumlarını kontrol etme.
-
-🖥️ Cari Paneli Özellikleri
-Müşteri paneli sayesinde:
-Sipariş geçmişi ve detaylar incelenebilir.
- kargo durumu takip edilebilir.
-Mesajlaşma sistemiyle diğer kullanıcılarla iletişim kurulabilir.
+🖥️ Cari Paneli Özellikleri</br>
+Müşteri paneli sayesinde:</br>
+Sipariş geçmişi ve detaylar incelenebilir.</br>
+ kargo durumu takip edilebilir.</br>
+Mesajlaşma sistemiyle diğer kullanıcılarla iletişim kurulabilir.</br>
 
 
 ### Giriş Formu 3 panelden oluşmaktadır. 
