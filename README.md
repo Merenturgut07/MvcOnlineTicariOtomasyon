@@ -1,7 +1,7 @@
 # Projemizin adı AspNet MVc5 ile Online Ticari Otomasyon 
 ## Proje Amacı: 
 
-Udemy’de Murat Yücedağ hocamın eğitmenliğinde sunulan "ASP.NET MVC5 ile Online Ticari Otomasyon" eğitimini başarıyla tamamladım. Bu eğitimde, işletmelerin günlük iş süreçlerini kolaylaştırmak için geliştirilmiş kapsamlı bir Ticari Otomasyon projesi hayata geçirildi.
+Udemy’de Murat Yücedağ hocamın eğitmenliğinde sunulan "ASP.NET MVC5 ile Online Ticari Otomasyon" eğitimini başarıyla tamamladım. Bu eğitimde, işletmelerin günlük iş süreçlerini kolaylaştırmak için geliştirilmiş kapsamlı bir Ticari Otomasyon projesi hayata geçirildi.</br>
 
 🚀 Projede Kullanılan Teknolojiler ve Yaklaşımlar
 💻 ASP.NET MVC5 
