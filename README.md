@@ -1,21 +1,17 @@
 # Projemizin adı AspNet MVc5 ile Online Ticari Otomasyon 
 ## Proje Amacı: 
 
-Murat Yücedağ ile ASP.NET MVC5 Ticari Otomasyon Projesi Deneyimim
-
-Merhaba! 🙋‍♂️
-
-Udemy’de Murat Yücedağ hocamın eğitmenliğinde sunulan "ASP.NET MVC5 ile Online Ticari Otomasyon" eğitimini başarıyla tamamladım. 🎉 Bu eğitimde, işletmelerin günlük iş süreçlerini kolaylaştırmak için geliştirilmiş kapsamlı bir Ticari Otomasyon projesini hayata geçirdim.
+Udemy’de Murat Yücedağ hocamın eğitmenliğinde sunulan "ASP.NET MVC5 ile Online Ticari Otomasyon" eğitimini başarıyla tamamladım. Bu eğitimde, işletmelerin günlük iş süreçlerini kolaylaştırmak için geliştirilmiş kapsamlı bir Ticari Otomasyon projesi hayata geçirildi.
 
 🚀 Projede Kullanılan Teknolojiler ve Yaklaşımlar
-💻 ASP.NET MVC5 ile güçlü ve kullanıcı dostu bir mimari yapı.
+💻 ASP.NET MVC5 
 🗄️ MSSQL Server ve Entity Framework (Code First) ile veritabanı yönetimi.
 🎡 Trigger ve Prosedür yazımı ile dinamik veritabanı işlemleri.
 🔍 İlişkisel Tablolar ve LINQ sorguları ile verimli veri analizi.
 🔑 Yetki bazlı giriş ve yönetim sistemi (Authentication / Authorization / Validation).
 ⚙️ Kullanıcı deneyimini artıran Partial Views, Modal Popups ve Sweet Alerts.
 🎑 Görselleştirme için Google Charts ve raporlama araçları.
-🔋 DataTable ile arama ve sayfalama işlemleri, QR kod oluşturma ve daha fazlası!
+🔋 DataTable ile arama ve sayfalama işlemleri, QR kod oluşturma 
 
 🗝️ Admin Paneli Özellikleri
 Admin paneli, kapsamlı bir yönetim aracı sunuyor:
@@ -25,19 +21,13 @@ Satış ve müşteri takibi: Personel satışları ve cari geçmişleri görünt
 Fatura oluşturma: Dinamik sistemle satış faturaları hazırlama.
 İstatistik ve grafikler: İş süreçlerini analiz etmek için güçlü görsel araçlar.
 Kargo takibi: QR kodlar üzerinden kargo durumlarını kontrol etme.
+
 🖥️ Cari Paneli Özellikleri
-Kullanıcı dostu müşteri paneli sayesinde:
-
+Müşteri paneli sayesinde:
 Sipariş geçmişi ve detaylar incelenebilir.
-QR kodlar aracılığıyla kargo durumu takip edilebilir.
+ kargo durumu takip edilebilir.
 Mesajlaşma sistemiyle diğer kullanıcılarla iletişim kurulabilir.
-🌟 Elde Ettiklerim
-Bu proje sayesinde:
 
-ASP.NET MVC mimarisini derinlemesine anlama fırsatı buldum.
-Karmaşık iş süreçlerini modüler bir yapı ile nasıl çözülebilir hale getirebileceğimi öğrendim.
-Yazılım geliştirme süreçlerindeki en iyi uygulamaları deneyimledim.
-Bu eğitim, profesyonel anlamda gelişimime büyük katkı sağladı. Edindiğim bilgileri projelerimde kullanmaya ve yenilikçi çözümler geliştirmeye devam edeceğim. 💪
 
 ### Giriş Formu 3 panelden oluşmaktadır. 
 </br>
